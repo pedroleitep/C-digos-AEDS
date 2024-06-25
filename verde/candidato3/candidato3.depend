@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719257089 source:c:\users\pedro\onedrive\documentos\aeds\verde\candidato3\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
